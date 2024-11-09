@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Notantic
-- 👀 I’m interested in ...
-- 🌱 I’m currently taking 100 days of code challenge
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi,This is @Notantic
+
+- 🌱 I’m currently learning JAVA WITH DSA
+-
+- 📫 How to reach me notavinashbachchh@gmail.com
+
 
 <!---
 Notantic/Notantic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
