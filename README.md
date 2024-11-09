@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning JAVA WITH DSA
 -
-- 📫 How to reach me notavinashbachchh@gmail.com
+- 📫 reach me notavinashbachchh@gmail.com
 
 
 <!---
